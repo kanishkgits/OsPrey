@@ -1,0 +1,18 @@
+{
+  "name": "blood-report-parser",
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable": "^2.1.1",
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^3.8.4",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tesseract.js": "^4.0.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
